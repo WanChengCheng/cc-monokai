@@ -1,0 +1,22 @@
+{
+    "name": "cc-monokai",
+    "displayName": "cc-monokai",
+    "description": "my custmized theme derived from one-monokai",
+    "version": "0.0.1",
+    "publisher": "wanchengcheng",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "cc-monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cc-monokai-color-theme.json"
+            }
+        ]
+    }
+}
