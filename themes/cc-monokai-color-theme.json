@@ -15,7 +15,7 @@
 		"scrollbarSlider.background": "#4e566680",
 		"scrollbarSlider.hoverBackground": "#5a637580",
 		"scrollbarSlider.activeBackground": "#747d9180",
-		"editor.background": "#282c34",
+		"editor.background": "#272822",
 		"editorWidget.background": "#21252b",
 		"editor.selectionBackground": "#3e4451",
 		"editor.findMatchHighlightBackground": "#314365",
@@ -47,18 +47,17 @@
 		"activityBarBadge.background": "#528bff",
 		"activityBarBadge.foreground": "#f8fafd",
 		"sideBar.background": "#21252b",
-		"sideBarSectionHeader.background": "#282c34",
+		"sideBarSectionHeader.background": "#272822",
 		"titleBar.activeForeground": "#9da5b4",
 		"titleBar.inactiveForeground": "#6b717d",
-		"titleBar.activeBackground": "#282c34",
-		"titleBar.inactiveBackground": "#282c34",
+		"titleBar.activeBackground": "#272822",
+		"titleBar.inactiveBackground": "#272822",
 		"statusBar.debuggingBackground": "#21252b"
 	},
 	"tokenColors": [
 		{
 			"settings": {
 				"foreground": "#bbbbbbff",
-				"background": "#282c34ff"
 			}
 		},
 		{
@@ -121,7 +120,7 @@
 			"name": "Embeded String",
 			"scope": "string.embedded",
 			"settings": {
-				"foreground": "#98c379"
+				"foreground": "#89d93d"
 			}
 		},
 		{
@@ -224,7 +223,7 @@
 			"name": "Inherited class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"foreground": "#98c379"
+				"foreground": "#89d93d"
 			}
 		},
 		{
@@ -234,7 +233,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#98c379"
+				"foreground": "#89d93d"
 			}
 		},
 		{
@@ -259,7 +258,7 @@
 				"function.support.core"
 			],
 			"settings": {
-				"foreground": "#98c379"
+				"foreground": "#89d93d"
 			}
 		},
 		{
@@ -287,7 +286,7 @@
 			"name": "Tag attribute",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#98c379"
+				"foreground": "#89d93d"
 			}
 		},
 		{
@@ -335,7 +334,7 @@
 				"support.constant.sass"
 			],
 			"settings": {
-				"foreground": "#98c379"
+				"foreground": "#89d93d"
 			}
 		},
 		{
@@ -523,7 +522,7 @@
 			"name": "Markdown: Quote",
 			"scope": "markup.quote.markdown",
 			"settings": {
-				"foreground": "#98c379"
+				"foreground": "#89d93d"
 			}
 		},
 		{
